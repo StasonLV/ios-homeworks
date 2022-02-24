@@ -1,9 +1,7 @@
 //
 //  SceneDelegate.swift
 //  Netology_IB_Instruments
-//
-//  Created by Кристина on 23.02.2022.
-//
+
 
 import UIKit
 
